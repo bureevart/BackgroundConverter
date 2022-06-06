@@ -1,0 +1,6 @@
+<html>
+<head>
+<title>New file!!!</title>
+</head>
+<body bgcolor="(цвет)"></body>
+</html>

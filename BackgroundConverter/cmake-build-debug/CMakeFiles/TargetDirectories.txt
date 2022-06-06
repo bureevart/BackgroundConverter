@@ -1,0 +1,3 @@
+Z:/javaProjects/ClionProjects/BackgroundConverter/cmake-build-debug/CMakeFiles/BackgroundConverter.dir
+Z:/javaProjects/ClionProjects/BackgroundConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/javaProjects/ClionProjects/BackgroundConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
